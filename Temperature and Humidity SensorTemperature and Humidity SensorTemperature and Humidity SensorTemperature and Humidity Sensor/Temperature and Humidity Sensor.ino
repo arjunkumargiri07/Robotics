@@ -1,3 +1,4 @@
+// Code for DHT11 sensor whuch is used to show Temperature and Humidity
 #include <DHT.h>
 #define DHTPIN 20
 #define DHTTYPE DHT11
