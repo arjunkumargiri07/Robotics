@@ -109,3 +109,12 @@ Distance: -1 cm (No echo detected)
 - Distance alert systems  
 
 ---
+## ⚠️ Important Notes
+
+- Do not power HC-SR04 ECHO directly into ESP32 without voltage protection  
+- Keep sensor stable for accurate readings  
+- Ensure correct board selection in Arduino IDE  
+
+---
+
+## 👨‍💻 Author
