@@ -117,4 +117,9 @@ Distance: -1 cm (No echo detected)
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author<br>
+Arjun Kumar Giri
+
+Computer Engineering Student | Robotics & Embedded Systems Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
