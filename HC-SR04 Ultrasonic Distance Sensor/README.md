@@ -7,18 +7,19 @@ This project uses an ultrasonic sensor to measure distance and displays the resu
 The system measures distance using the HC-SR04 Ultrasonic Distance Sensor HC-SR04 Ultrasonic Distance Sensor and provides real-time visual feedback:
 
 🔴 Red → Object is very close (≤ 10 cm)<br>
-🟡 Yellow → Medium distance (10–20 cm)
-🟢 Green → Far (> 20 cm)
-🔵 Blue → No echo detected / out of range
-🧰 Components Required
-ESP32 / Arduino Board
-HC-SR04 Ultrasonic Sensor
-NeoPixel RGB LED (WS2812)
-Jumper wires
-Breadboard
-📦 Libraries Used
-Adafruit NeoPixel Library
-Used to control the RGB LED strip or single NeoPixel.
+🟡 Yellow → Medium distance (10–20 cm)<br>
+🟢 Green → Far (> 20 cm)<br>
+🔵 Blue → No echo detected / out of range<br>
+🧰 Components Required<br>
+ESP32 / Arduino Board<br>
+HC-SR04 Ultrasonic Sensor<br>
+NeoPixel RGB LED (WS2812)<br>
+Jumper wires<br>
+Breadboard<br>
+<br>
+📦 Libraries Used<br>
+Adafruit NeoPixel Library<br>
+Used to control the RGB LED strip or single NeoPixel.<br>
 🔌 Pin Configuration
 Component	Pin
 TRIG (HC-SR04)	GPIO 4
