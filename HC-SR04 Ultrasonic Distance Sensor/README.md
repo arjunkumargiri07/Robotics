@@ -6,7 +6,7 @@ This project uses an ultrasonic sensor to measure distance and displays the resu
 
 The system measures distance using the HC-SR04 Ultrasonic Distance Sensor HC-SR04 Ultrasonic Distance Sensor and provides real-time visual feedback:
 
-🔴 Red → Object is very close (≤ 10 cm)
+🔴 Red → Object is very close (≤ 10 cm)<br>
 🟡 Yellow → Medium distance (10–20 cm)
 🟢 Green → Far (> 20 cm)
 🔵 Blue → No echo detected / out of range
