@@ -10,6 +10,7 @@ The system measures distance using the HC-SR04 Ultrasonic Distance Sensor HC-SR0
 🟡 Yellow → Medium distance (10–20 cm)<br>
 🟢 Green → Far (> 20 cm)<br>
 🔵 Blue → No echo detected / out of range<br>
+<br>
 🧰 Components Required<br>
 ESP32 / Arduino Board<br>
 HC-SR04 Ultrasonic Sensor<br>
@@ -20,7 +21,8 @@ Breadboard<br>
 📦 Libraries Used<br>
 Adafruit NeoPixel Library<br>
 Used to control the RGB LED strip or single NeoPixel.<br>
-🔌 Pin Configuration
+<br>
+🔌 Pin Configuration<br>
 Component	Pin
 TRIG (HC-SR04)	GPIO 4
 ECHO (HC-SR04)	GPIO 5
